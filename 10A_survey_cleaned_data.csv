@@ -1,0 +1,45 @@
+Designation,Age,Gender,Requirement Stability,Requirement Change Frequency,Deadline Crossing Tendency,Deadline Crossing Frequency,Design Change,Adapting New Technology,Testability,Change Flexibility,Task Satisfaction,Fault Occurrence Frequency,Budget Extension,Efficiency,Reusability,Portability
+Student,23,Male,Always,5-6,A Team,Always,Neutral,Seldom,Often,Yes,Neutral,Sometimes,Sometimes,Agree,Sometimes,Often
+Associate Software Engineer ,25,Male,Often,1-2,A Team,Sometimes,Strongly Agree,Seldom,Sometimes,Yes,Satisfied,Often,Often,Agree,Seldom,Seldom
+MSc Student,27,Female,Sometimes,More than 6,A Team,Seldom,Agree,Often,Seldom,Yes,Satisfied,Sometimes,Often,Disagree,Seldom,Never
+Software Engineer,23,Male,Sometimes,1-2,A Team,Seldom,Strongly Agree,Never,Never,Yes,Satisfied,Sometimes,Often,Disagree,Seldom,Never
+Student,23,Male,Often,3-4,A Team,Sometimes,Neutral,Always,Often,Yes,Satisfied,Sometimes,Often,Neutral,Sometimes,Seldom
+Software Engineer,23,Male,Often,5-6,A Team,Sometimes,Agree,Always,Never,Yes,Satisfied,Sometimes,Often,Agree,Often,Often
+Assistant programmer,28,Female,Often,3-4,,Seldom,Disagree,Sometimes,Sometimes,No,Satisfied,Often,Seldom,Strongly disagree,Never,Often
+Freelancer Developer,24,Male,Always,1-2,A Team,Never,Strongly Agree,Often,Seldom,Yes,Satisfied,Often,Sometimes,Agree,Sometimes,Often
+Software Engineer,29,Male,Often,More than 6,A Team,Sometimes,Agree,Always,Sometimes,Yes,Satisfied,Sometimes,Sometimes,Strongly disagree,Often,Seldom
+(),28,Male,Often,3-4,A Team,Seldom,Neutral,Often,Sometimes,Yes,Satisfied,Sometimes,Sometimes,Agree,Sometimes,Seldom
+Student ,25,Male,Often,3-4,An Individual,Seldom,Neutral,Sometimes,Seldom,Yes,Neutral,Often,Sometimes,Neutral,Seldom,Often
+Employe,29,Female,Often,3-4,An Individual,Seldom,Agree,Always,Sometimes,Yes,Satisfied,Sometimes,Sometimes,Agree,Often,Often
+Senior Software Engineer ,26,Male,Sometimes,1-2,A Team,Seldom,Agree,Sometimes,Seldom,Yes,Satisfied,Often,Often,Neutral,Sometimes,Never
+Software Engineer I,23,Female,Always,1-2,A Team,Seldom,Neutral,Sometimes,Seldom,Yes,Neutral,Often,Sometimes,Neutral,Seldom,Seldom
+Lecturer,30,Female,Always,More than 6,A Team,Often,Agree,Always,Often,Yes,Satisfied,Sometimes,Sometimes,Neutral,Often,Often
+Student,24,Male,Often,5-6,,Seldom,Agree,Often,Seldom,Yes,Satisfied,Seldom,Often,Agree,Sometimes,Sometimes
+Associate Software Engineer,22,Male,Sometimes,1-2,,Never,Agree,Seldom,Sometimes,Yes,Satisfied,Often,Always,Neutral,Sometimes,Sometimes
+Intern,24,Female,Often,3-4,A Team,Seldom,Agree,Often,Sometimes,Yes,Neutral,Sometimes,Often,Disagree,Sometimes,Never
+Canada,27,Female,Often,1-2,,Never,Disagree,Often,Sometimes,Yes,Neutral,Sometimes,Sometimes,Neutral,Sometimes,Never
+Software Engineer,24,Male,Sometimes,1-2,A Team,Seldom,Agree,Always,Often,Yes,Satisfied,Sometimes,Sometimes,Disagree,Seldom,Often
+Sr. Software Engineer,25,Male,Often,3-4,,Never,Agree,Seldom,Sometimes,Yes,Satisfied,Sometimes,Often,Agree,Sometimes,Never
+Graduate Teaching Assistant,27,Female,Often,3-4,A Team,Sometimes,Strongly Agree,Often,Often,No,Satisfied,Always,Often,Agree,Often,Often
+Graduate Student,28,Female,Sometimes,5-6,A Team,Seldom,Neutral,Always,Sometimes,No,Satisfied,Sometimes,Sometimes,Disagree,Sometimes,Sometimes
+Intern,26,Male,Seldom,1-2,,Never,Neutral,Often,Seldom,No,Satisfied,Sometimes,Sometimes,Neutral,Seldom,Never
+Ex software engineer (Lecturer),28,Male,Often,5-6,A Team,Often,Agree,Always,Often,Yes,Very Satisfied,Often,Always,Neutral,Sometimes,Often
+Associate Software Engineer,26,Male,Sometimes,1-2,,Sometimes,Strongly Agree,Often,Sometimes,Yes,Satisfied,Seldom,Often,Neutral,Often,Sometimes
+Associate Software Engineer,22,Male,Sometimes,3-4,An Individual,Often,Strongly Agree,Always,Always,Yes,Satisfied,Always,Always,Disagree,Sometimes,Always
+PHD student,30,Male,Sometimes,More than 6,A Team,Seldom,Agree,Sometimes,Always,Yes,Neutral,Sometimes,Often,Disagree,Sometimes,Never
+Senior Software Engineer,24,Male,Sometimes,1-2,,Seldom,Disagree,Often,Sometimes,Yes,Satisfied,Sometimes,Sometimes,Disagree,Often,Seldom
+Software Engineer,29,Female,Often,More than 6,,Sometimes,Agree,Sometimes,Seldom,Yes,Satisfied,Often,Sometimes,Neutral,Seldom,Seldom
+Software Engineer graduate,23,Male,Often,5-6,A Team,Sometimes,Agree,Always,Often,Yes,Satisfied,Sometimes,Always,Disagree,Sometimes,Sometimes
+Senior Software Engineer,28,Male,Always,More than 6,A Team,Seldom,Neutral,Often,Often,Yes,Neutral,Often,Sometimes,Neutral,Often,Always
+Associate Software Engineer,25,Male,Sometimes,1-2,A Team,Seldom,Agree,Sometimes,Sometimes,Yes,Satisfied,Sometimes,Sometimes,Strongly disagree,Seldom,Often
+Blockchain Developer,23,Male,Often,1-2,An Individual,Always,Neutral,Always,Always,Yes,Satisfied,Sometimes,Often,Agree,Seldom,Sometimes
+SE,25,Male,Sometimes,5-6,A Team,Sometimes,Agree,Always,Sometimes,Yes,Satisfied,Sometimes,Sometimes,Neutral,Sometimes,Never
+Junior Software Engineer,22,Female,Seldom,1-2,A Team,Sometimes,Agree,Sometimes,Sometimes,Yes,Satisfied,Sometimes,Often,Agree,Sometimes,Sometimes
+Senior Software Engineer,30,Male,Always,More than 6,A Team,Seldom,Neutral,Always,Sometimes,Yes,Satisfied,Often,Often,Disagree,Sometimes,Seldom
+Software Engineer,25,Male,Often,More than 6,,Seldom,Agree,Seldom,Often,Yes,Satisfied,Sometimes,Sometimes,Strongly disagree,Often,Sometimes
+Student,23,Male,Often,More than 6,A Team,Never,Agree,Always,Sometimes,Yes,Satisfied,Often,Always,Agree,Often,Often
+Software Engineer,23,Male,Always,More than 6,A Team,Always,Strongly Agree,Always,Sometimes,Yes,Satisfied,Sometimes,Always,Strongly agree,Always,Sometimes
+Software engineer,29,Male,Seldom,1-2,A Team,Sometimes,Agree,Sometimes,Sometimes,Yes,Neutral,Sometimes,Sometimes,Neutral,Sometimes,Seldom
+"Lecturer, CSE, BRACU",25,Male,Sometimes,1-2,A Team,Seldom,Disagree,Always,Often,Yes,Satisfied,Always,Often,Strongly agree,Sometimes,Seldom
+Student,23,Male,Often,3-4,An Individual,Seldom,Agree,Always,Sometimes,Yes,Satisfied,Sometimes,Often,Agree,Seldom,Never
+Associate software engineer,24,Female,Sometimes,3-4,An Individual,Seldom,Agree,Sometimes,Sometimes,Yes,Satisfied,Sometimes,Sometimes,Disagree,Seldom,Sometimes
